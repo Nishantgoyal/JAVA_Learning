@@ -27,3 +27,7 @@
 | 23          | Course Remaster in Progress                                           | 19                 | TODO                                                                     |
 | 24          | Archived Videos                                                       | 2                  | TODO                                                                     |
 | 25          | Extra Information - Source code, and other stuff                      | 2                  | TODO                                                                     |
+
+## Future TODOs
+
+- [Learn to Code Series](https://www.youtube.com/playlist?list=PLXtTjtWmQhg0N08o_oSaAantmQAu-1Xad)
