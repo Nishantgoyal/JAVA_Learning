@@ -2,15 +2,15 @@
 
 | Section No. | Section Title                                                         | Number of Lectures | Current Lecture in Progress |
 | ----------- | --------------------------------------------------------------------- | ------------------ | --------------------------- |
-| 1           | Course Introduction                                                   | 6                  | TODO                        |
-| 2           | Software Tools Setup                                                  | 12                 | TODO                        |
-| 3           | First Steps                                                           | 24                 | TODO                        |
-| 4           | Java Tutorial: Expressions, Statements, Code blocks, Methods and more | 19                 | TODO                        |
-| 5           | Control Flow Statements                                               | 14                 | TODO                        |
-| 6           | OOP Part 1 - Classes, Constructors and Inheritance                    | 14                 | TODO                        |
-| 7           | OOP Part 2 - Composition, Encapsulation, and Polymorphism             | 9                  | TODO                        |
-| 8           | Arrays, Java inbuilt Lists, Autoboxing and Unboxing                   | 24                 | TODO                        |
-| 9           | Inner and Abstract Classes & Interfaces                               | 13                 | TODO                        |
+| 01          | Course Introduction                                                   | 6                  | TODO                        |
+| 02          | Software Tools Setup                                                  | 12                 | TODO                        |
+| 03          | First Steps                                                           | 24                 | TODO                        |
+| 04          | Java Tutorial: Expressions, Statements, Code blocks, Methods and more | 19                 | TODO                        |
+| 05          | Control Flow Statements                                               | 14                 | TODO                        |
+| 06          | OOP Part 1 - Classes, Constructors and Inheritance                    | 14                 | TODO                        |
+| 07          | OOP Part 2 - Composition, Encapsulation, and Polymorphism             | 9                  | TODO                        |
+| 08          | Arrays, Java inbuilt Lists, Autoboxing and Unboxing                   | 24                 | TODO                        |
+| 09          | Inner and Abstract Classes & Interfaces                               | 13                 | TODO                        |
 | 10          | Java Generics                                                         | 5                  | TODO                        |
 | 11          | TODOming Conventions and Packages. static and fiTODOl keywords        | 12                 | TODO                        |
 | 12          | Java Collections                                                      | 27                 | TODO                        |
