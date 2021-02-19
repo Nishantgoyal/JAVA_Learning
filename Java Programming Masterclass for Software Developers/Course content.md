@@ -2,7 +2,7 @@
 
 | Section No. | Section Title                                                         | Number of Lectures | Current Lecture in Progress |
 | ----------- | --------------------------------------------------------------------- | ------------------ | --------------------------- |
-| 01          | Course Introduction                                                   | 6                  | 02. Remaster in Progress    |
+| 01          | Course Introduction                                                   | 6                  | 03. Video Quality           |
 | 02          | Software Tools Setup                                                  | 12                 | TODO                        |
 | 03          | First Steps                                                           | 24                 | TODO                        |
 | 04          | Java Tutorial: Expressions, Statements, Code blocks, Methods and more | 19                 | TODO                        |
