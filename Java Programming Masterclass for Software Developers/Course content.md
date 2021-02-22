@@ -3,7 +3,7 @@
 | Section No. | Section Title                                                         | Number of Lectures | Current Lecture in Progress |
 | ----------- | --------------------------------------------------------------------- | ------------------ | --------------------------- |
 | 01          | Course Introduction                                                   | 6                  | Done                        |
-| 02          | Software Tools Setup                                                  | 12                 | in-progress                 |
+| 02          | Software Tools Setup                                                  | 12                 | 08. Install JDK 11 for Mac  |
 | 03          | First Steps                                                           | 24                 | TODO                        |
 | 04          | Java Tutorial: Expressions, Statements, Code blocks, Methods and more | 19                 | TODO                        |
 | 05          | Control Flow Statements                                               | 14                 | TODO                        |
