@@ -4,7 +4,7 @@
 | ----------- | --------------------------------------------------------------------- | ------------------ | --------------------------- |
 | 01          | Course Introduction                                                   | 6                  | Done                        |
 | 02          | Software Tools Setup                                                  | 12                 | Done                        |
-| 03          | First Steps                                                           | 24                 | TODO                        |
+| 03          | First Steps                                                           | 24                 | 01. Introduction            |
 | 04          | Java Tutorial: Expressions, Statements, Code blocks, Methods and more | 19                 | TODO                        |
 | 05          | Control Flow Statements                                               | 14                 | TODO                        |
 | 06          | OOP Part 1 - Classes, Constructors and Inheritance                    | 14                 | TODO                        |
