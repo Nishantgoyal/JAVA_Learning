@@ -1,4 +1,4 @@
-package primitive_types.integer;
+package primitive_types.Integer;
 
 public class Main {
   public static void main(String[] args) {
