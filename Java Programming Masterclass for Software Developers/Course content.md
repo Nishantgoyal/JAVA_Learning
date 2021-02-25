@@ -5,7 +5,7 @@
 | 01          | Course Introduction                                                   | 6                  | Done                        |
 | 02          | Software Tools Setup                                                  | 12                 | Done                        |
 | 03          | First Steps                                                           | 24                 | Done                        |
-| 04          | Java Tutorial: Expressions, Statements, Code blocks, Methods and more | 19                 | TODO                        |
+| 04          | Java Tutorial: Expressions, Statements, Code blocks, Methods and more | 19                 | 01. Introduction            |
 | 05          | Control Flow Statements                                               | 14                 | TODO                        |
 | 06          | OOP Part 1 - Classes, Constructors and Inheritance                    | 14                 | TODO                        |
 | 07          | OOP Part 2 - Composition, Encapsulation, and Polymorphism             | 9                  | TODO                        |
